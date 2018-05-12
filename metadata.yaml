@@ -1,0 +1,33 @@
+_repo: The-History-of-Richard-Raynal-Solitary_15808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Robert Hugh
+    alias: Benson, R. H. (Robert Hugh)
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '4052'
+    url: http://www.gutenberg.org/2009/agents/4052
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
+description: This fascinating fictionalized account of the life of a fifteenth-century
+  English monk offers an engaging look at the rigors of a spiritual life -- and questions
+  whether it is more beneficial to dedicate one's life to solitary prayer and meditation,
+  or to try to help solve the world's problems through direct and targeted action.
+gutenberg_issued: '2005-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Henry VI, 1422-1461 -- Fiction'
+- !lcsh 'Hermits -- Fiction'
+- !lcsh 'Historical fiction'
+title: The History of Richard Raynal, Solitary
+url: http://www.gutenberg.org/ebooks/15808
